@@ -1,0 +1,6 @@
+[package]
+name = "Rust-Data-Structures"
+version = "0.1.0"
+authors = ["steffencm <steffencm@gmail.com>"]
+
+[dependencies]
